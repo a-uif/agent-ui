@@ -1,4 +1,4 @@
-# AUIF - Agentic UI Framework
+# Agentic UI Framework - [**AUIF.dev**](http://auif.dev/)
 
 ![AUIF](images/auif.png)
 
